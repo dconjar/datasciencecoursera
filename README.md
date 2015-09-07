@@ -1,2 +1,3 @@
-# datasciencecoursera
-Repo for Coursera data science track
+# Coursera Data Science Track
+
+Repo for learning data science and such.
